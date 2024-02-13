@@ -1,4 +1,4 @@
-#include "main.h"
+#include "source.h"
 
 int main(){
     int num1 = 0, num2 = 0, operation = 0, sum = 0;
